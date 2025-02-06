@@ -1,15 +1,21 @@
-# Frequency-Modulation
+# 📡 Frequency Modulation using Verilog in Quartus Prime  
 
-#Overview
-This project implements Frequency Modulation (FM) using Verilog in Quartus Prime, utilizing DSP IP cores for signal generation and basic mathematical operations. The design leverages Altera's DSP Builder IPs to perform real-time signal processing efficiently.
+## 🔹 Overview  
+This project demonstrates **Frequency Modulation (FM)** using **Verilog** in **Quartus Prime**, leveraging **DSP IP cores** for signal generation and mathematical operations. The design utilizes **Altera’s DSP Builder IPs** to efficiently process signals in an FPGA-based system.  
 
-#Features
-FM Signal Generation: Implements frequency modulation using digital logic.
-DSP IP Core Integration: Utilizes Quartus Prime's DSP IP cores for efficient signal processing.
-Mathematical Operations: Basic arithmetic operations for modulation are handled through hardware resources.
-Simulation and Testing: Verified using ModelSim and Quartus Prime’s simulation tools.
-Tools & Technologies
-Quartus Prime (FPGA Development)
-Verilog (RTL Coding)
-DSP IP Cores (Signal Processing)
-ModelSim (Simulation & Debugging)
+## ✨ Features  
+✅ **FM Signal Generation** – Implements frequency modulation using digital logic.  
+✅ **DSP IP Core Integration** – Utilizes Quartus Prime’s DSP IP cores for efficient signal processing.  
+✅ **Mathematical Operations** – Basic arithmetic operations for modulation are handled through hardware resources.  
+✅ **Simulation & Testing** – Verified using **ModelSim** and **Quartus Prime**'s built-in simulation tools.  
+
+## 🛠️ Tools & Technologies  
+- **Quartus Prime** – FPGA Development  
+- **Verilog** – RTL Coding  
+- **DSP IP Cores** – Signal Processing  
+- **ModelSim** – Simulation & Debugging  
+
+## 🚀 Getting Started  
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/your-username/FM_Verilog_Quartus.git
