@@ -15,7 +15,4 @@ This project demonstrates **Frequency Modulation (FM)** using **Verilog** in **Q
 - **DSP IP Cores** – Signal Processing  
 - **ModelSim** – Simulation & Debugging  
 
-## 🚀 Getting Started  
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/YagneshHirpara/FM_Verilog_Quartus.git
+
