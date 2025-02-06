@@ -18,4 +18,4 @@ This project demonstrates **Frequency Modulation (FM)** using **Verilog** in **Q
 ## 🚀 Getting Started  
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/FM_Verilog_Quartus.git
+git clone https://github.com/YagneshHirpara/FM_Verilog_Quartus.git
